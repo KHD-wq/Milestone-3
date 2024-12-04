@@ -7,7 +7,8 @@ GitHub Project board
 
 Completed user stories
 ![image](https://github.com/user-attachments/assets/1d1603d5-0033-49fe-a628-d1c3e3a0279b)
-List any pending user stories / any user stories you decided to cut from the original requirements
+![image](https://github.com/user-attachments/assets/8f8786c0-6d52-4870-9a7c-bf6b22ecc0d5)
+
 [Add video/gif of your current application that shows build progress] 
 
 App Demo Video
