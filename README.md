@@ -1,7 +1,8 @@
 # Milestone-3
 
 GitHub Project board
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
+![image](https://github.com/user-attachments/assets/e9cbc9fb-4b5d-44c0-a5b5-d3f0fa975c2f)
+
 
 Completed user stories
 List the completed user stories from this unit
