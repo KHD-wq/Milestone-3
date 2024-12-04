@@ -6,7 +6,7 @@ GitHub Project board
 
 
 Completed user stories
-List the completed user stories from this unit
+![image](https://github.com/user-attachments/assets/1d1603d5-0033-49fe-a628-d1c3e3a0279b)
 List any pending user stories / any user stories you decided to cut from the original requirements
 [Add video/gif of your current application that shows build progress] 
 
