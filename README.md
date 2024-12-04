@@ -1,7 +1,8 @@
 # Milestone-3
 
 GitHub Project board
-![image](https://github.com/user-attachments/assets/e9cbc9fb-4b5d-44c0-a5b5-d3f0fa975c2f)
+![image](https://github.com/user-attachments/assets/68bda7c1-1c73-40a4-82d9-9e175a0352dd)
+
 
 
 Completed user stories
