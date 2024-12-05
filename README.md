@@ -1,5 +1,8 @@
 # Milestone-3
 
+Group Members: Group Members: Kasaan Dornelus, Clyde Baidoo, Nickolas Bigelow 
+
+
 GitHub Project board
 ![image](https://github.com/user-attachments/assets/68bda7c1-1c73-40a4-82d9-9e175a0352dd)
 
